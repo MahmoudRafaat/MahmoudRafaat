@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmoudRafaat
 - 👀 I’m interested in mobile application developing
-- 🌱 I’m currently learning devleopin mobile apps with flutter
+- 🌱 I’m currently learning devleoping mobile apps with flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at mahmoudrafatt995@gmail.com
 
